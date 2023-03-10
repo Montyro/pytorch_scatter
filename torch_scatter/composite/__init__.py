@@ -7,4 +7,5 @@ __all__ = [
     'scatter_logsumexp',
     'scatter_softmax',
     'scatter_log_softmax',
+    'scatter_proportions',
 ]
